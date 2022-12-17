@@ -5,8 +5,11 @@
   "neural_networks": "Neural Networks",
   "natural_language_processing": "Natural Language Processing",
   "computer_vision": "Computer Vision",
-  "ai_ethics_and_societal_implications": "AI Ethics and Scietal Implications",
-  "research": "Research",
+  "ai_ethics_and_societal_implications": "AI Ethics and Societal Implications",
+  "research": {
+    "title": "Research",
+    "type": "page"
+  },
   "about": {
     "title": "About",
     "type": "page"
