@@ -5,6 +5,12 @@
   "natural_language_processing": "Natural Language Processing",
   "computer_vision": "Computer Vision",
   "ai_ethics_and_societal_implications": "AI Ethics and Societal Implications",
+  "arboria": {
+    "title": "Arboria.AI",
+    "type": "page",
+    "href": "https://arboria.yukiolabs.com",
+    "newWindow": true
+  },
   "latest": {
     "title": "News",
     "type": "page"
