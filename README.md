@@ -1,23 +1,15 @@
-# Nextra Docs Template 
+# Welcome to the lab!
 
-This is a template for creating documentation with [Nextra](https://nextra.site).
+This knowledge base is designed to be a comprehensive resource for researchers and professionals working in the field of artificial intelligence (AI). It contains a wide range of information about AI technologies, techniques, and applications, as well as insights and guidance for conducting AI research and development.
 
-[**Live Demo →**](https://nextra-docs-template.vercel.app)
+## Key features
 
-[![](.github/screenshot.png)](https://nextra-docs-template.vercel.app)
+- Detailed explanations and definitions of key AI concepts and technologies, including machine learning, deep learning, natural language processing, and computer vision.
 
-## Quick Start
+- Case studies and examples of real-world AI projects and applications, highlighting the challenges and successes of these efforts.
 
-Click the button to clone this repository and deploy it on Vercel:
+- Research papers and articles from leading experts in the field, providing insights into the latest developments and trends in AI.
 
-[![](https://vercel.com/button)](https://vercel.com/new/clone?s=https%3A%2F%2Fgithub.com%2Fshuding%2Fnextra-docs-template&showOptionalTeamCreation=false)
+- Tips and best practices for conducting AI research, including advice on choosing research topics, developing experimental designs, and writing papers and reports.
 
-## Local Development
-
-First, run `pnpm i` to install the dependencies.
-
-Then, run `pnpm dev` to start the development server and visit localhost:3000.
-
-## License
-
-This project is licensed under the MIT License.
+We hope that this knowledge base will be a valuable resource for anyone interested in AI research and development.
