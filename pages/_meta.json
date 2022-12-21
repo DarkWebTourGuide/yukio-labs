@@ -5,12 +5,24 @@
   "natural_language_processing": "Natural Language Processing",
   "computer_vision": "Computer Vision",
   "ai_ethics_and_societal_implications": "AI Ethics and Societal Implications",
-  "arboria": {
-    "title": "Arboria.AI",
-    "type": "page",
-    "href": "https://arboria.yukiolabs.com",
-    "newWindow": true
-  },
+    "models": {
+      "title": "Models",
+      "type": "menu",
+      "items": {
+        "arboria": {
+          "title": "Arboria",
+          "href": "/arboria"
+        },
+        "proteus": {
+          "title": "Proteus",
+          "href": "/proteus"
+        },
+        "loresmith": {
+          "title": "LoreSmith",
+          "href": "/loresmith"
+        }
+      }
+    },
   "latest": {
     "title": "News",
     "type": "page"
@@ -22,6 +34,21 @@
   "about": {
     "title": "About",
     "type": "page"
+  },
+  "arboria": {
+    "title": "Arboria",
+    "type": "page",
+    "display": "hidden"
+  },
+  "loresmith": {
+    "title": "Loresmith",
+    "type": "page",
+    "display": "hidden"
+  },
+  "proteus": {
+    "title": "Proteus",
+    "type": "page",
+    "display": "hidden"
   },
   "contact": {
     "title": "Contact ↗",
