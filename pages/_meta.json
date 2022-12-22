@@ -11,17 +11,17 @@
       "items": {
         "arboria": {
           "title": "Arboria",
-          "href": "https://ai.yukiolabs.com/arboria",
+          "href": "https://ai.yukiolabs.com",
           "newWindow": true
         },
         "proteus": {
           "title": "Proteus",
-          "href": "https://ai.yukiolabs.com/proteus",
+          "href": "https://ai.yukiolabs.com",
           "newWindow": true
         },
         "loresmith": {
           "title": "LoreSmith",
-          "href": "https://ai.yukiolabs.com/loresmith",
+          "href": "https://ai.yukiolabs.com",
           "newWindow": true
         }
       }
