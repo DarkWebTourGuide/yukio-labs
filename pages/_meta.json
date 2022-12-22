@@ -11,15 +11,18 @@
       "items": {
         "arboria": {
           "title": "Arboria",
-          "href": "/arboria"
+          "href": "https://ai.yukiolabs.com/arboria",
+          "newWindow": true
         },
         "proteus": {
           "title": "Proteus",
-          "href": "/proteus"
+          "href": "https://ai.yukiolabs.com/proteus",
+          "newWindow": true
         },
         "loresmith": {
           "title": "LoreSmith",
-          "href": "/loresmith"
+          "href": "https://ai.yukiolabs.com/loresmith",
+          "newWindow": true
         }
       }
     },
@@ -34,21 +37,6 @@
   "about": {
     "title": "About",
     "type": "page"
-  },
-  "arboria": {
-    "title": "Arboria",
-    "type": "page",
-    "display": "hidden"
-  },
-  "loresmith": {
-    "title": "Loresmith",
-    "type": "page",
-    "display": "hidden"
-  },
-  "proteus": {
-    "title": "Proteus",
-    "type": "page",
-    "display": "hidden"
   },
   "contact": {
     "title": "Contact ↗",
