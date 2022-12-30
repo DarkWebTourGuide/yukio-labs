@@ -15,7 +15,8 @@ const config: DocsThemeConfig = {
   },
   useNextSeoProps() {
     return {
-      titleTemplate: 'Yukio Labs'
+      titleTemplate: 'Yukio Labs',
+      description: 'Artificial intelligence research organization focused on a safer more equitable future with technology.'
     }
   },
   feedback: {
